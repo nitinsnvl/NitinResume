@@ -64,6 +64,10 @@ li{
 font-family: "Montserrat-Bold";
   color: #423F3E;
 }
+
+form{
+  font-family: "Montserrat-Bold";
+}
 .a-tag{
   color: #000000;
 }
@@ -85,11 +89,6 @@ font-family: "Montserrat-Bold";
     font-family: "Montserrat-Bold";
     text-align: left;
     color: #000000;
-  }
-  .social-icon{
-text-align: left;
-color: #8f8f8f;
-margin: 0 5px;
   }
 
 .resume{
@@ -116,7 +115,6 @@ margin: 0 5px;
   padding: 5% 16% 0;
 }
 
-
 .title-contact{
   font-size: 3rem;
   color: 	#000000;
@@ -137,6 +135,21 @@ margin: 0 5px;
   color: #000000;
   padding: 10px 60px;
   text-align: center;
+}
+.white-section{
+  text-align: center;
+}
+.Work-Experince{
+  margin: 10px 0;
+}
+.social-icon{
+  margin: 20px 10px;
+  color: #000000;
+}
+.footer-div{
+  font-family: "Montserrat";
+  text-align: center;
+  color: #423F3E;
 }
 
 @media (max-width:1028px) {
